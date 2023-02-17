@@ -7,14 +7,14 @@
     box-sizing: border-box;
 }
 body{
-    background: #333333;
+    background: white;
     display: flex;
     justify-content: center;
     align-items: center;
     min-height: 100vh;
 }
 .wrapper{
-    color: black;
+    color: darkred;
     position: relative;
     width: 400px;
     background: #fff;
