@@ -48,6 +48,13 @@ let  allMusic = [
         src: "music/song7.mp3",
         idMusic: "song7"
     },
+     {
+        name: "Tháng Tư Là Lời Nói Dối Của Em",
+        artist: "--Hà Anh Tuấn--",
+        img: "song9",
+        src: "music/song9.mp3",
+        idMusic: "song9"
+    },
     {
         name: "Chắc Vì Mình Chưa Tốt",
         artist: "--Thanh Hưng--",
